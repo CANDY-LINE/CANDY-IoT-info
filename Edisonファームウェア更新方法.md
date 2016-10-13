@@ -6,11 +6,10 @@
 
 ### ファームウェアをダウンロードする
 
+- [Intel® Edison Module Firmware Software Release 3.5](https://downloadmirror.intel.com/26028/eng/iot-devkit-prof-dev-image-edison-20160606.zip)
 - [Release 2.1 Yocto complete image (poky-yocto)](http://downloadmirror.intel.com/25384/eng/edison-iotdk-image-280915.zip)
 
 上記のリンクからZIPファイルをダウンロードして展開しましょう。
-
-* 【注意！】Release 3.5など最新のファームウェアもEdisonへ更新することは可能ですが、LTEモジュールのドライバーがありませんので、LTE通信ができなくなります。Release 3.5への対応ができるまで、[CANDY IoT](http://www.candy-line.io/proandsv.html#candyiot)で利用するEdisonにつきましては、Release 2.1のファームウェアをご利用ください。
 
 ### 【重要!】CANDY IoTをファームウェア更新モードにする
 
